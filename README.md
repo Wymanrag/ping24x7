@@ -1,4 +1,5 @@
 # ping24x7
+CREDIT TO @NUNO_RODRIGUES
 ping to a given IP with mailed stats 
 
 
